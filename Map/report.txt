@@ -1,0 +1,29 @@
+
+──────────────────────────────────────────────────────────────────────────────────────────  GAEA BUILD SWARM  2.0.6.0 ──
+
+                                                                                                                
+          Filename:  │ C:\Users\Egor\Documents\Twin Sloth Studios\Shadows of the Ascendant\Map\mainmap.terrain  
+    Build Location:  │ C:\Users\Egor\Documents\Gaea\Builds\mainmap\001                                          
+  Build Resolution:  │ 1024 x 1024                                                                              
+             Nodes:  │ Total [23] / Exporting [5]                                                               
+                                                                                                                
+
+──────────────────────────────────────────────────────────────────────────────────────────────────────── Build Report ──
+
+             Build Results                              Statistics                
+                                                                                  
+      Result: │ Success                             Draw │ 0:00:00.309            
+  Resolution: │ 1024                             Crumble │ 0:00:00.533            
+  Node Count: │ 23                         ThermalShaper │ 0:00:00.278            
+  Start Time: │ 2/26/2025 11:07:09 PM                Sea │ 0:00:00.658            
+    End Time: │ 2/26/2025 11:07:13 PM               Flow │ 0:00:00.17             
+    Duration: │ 00:00:03.8317447                 Shatter │ 0:00:01.272            
+                                                         │                        
+                                                 Fastest │ SatMap @ 0:00:00       
+                                                 Slowest │ Shatter @ 0:00:01.272  
+                                                                                  
+                                          * nodes that took <100ms are excluded.  
+
+
+████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+■ Shatter 1272%       ■ Sea 658%      ■ Crumble 533%       ■ Draw 309%      ■ ThermalShaper 278%        ■ Flow 170%     
